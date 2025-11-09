@@ -1,0 +1,413 @@
+C:\Users\Lenovo\.jdks\openjdk-24.0.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2025.1.1.1\lib\idea_rt.jar=62044" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Lenovo\Desktop\my-home-work-main\out\production\my-home-work-main MainProgram
+===    Menu    ===
+Select an option
+f: Finish the program
+t: Information about the shows
+m: Information about the members
+b: Update the data when buying tickets
+c: Delete the data after deleting tickets
+Enter an Option: t
+==== Ticket Information ====
+Tickets for these shows: Spooky Men is available
+Tickets' availableNumber: 2
+Tickets' price: 10.99
+
+Tickets for these shows: Fascinating Aida is available
+Tickets' availableNumber: 5
+Tickets' price: 15.5
+
+Tickets for these shows: Professor Elemental is available
+Tickets' availableNumber: 11
+Tickets' price: 8.99
+
+Tickets for these shows: Weird Al is available
+Tickets' availableNumber: 4
+Tickets' price: 28.99
+
+Tickets for these shows: The Ukulele Orchestra of Great Britain is available
+Tickets' availableNumber: 7
+Tickets' price: 25.3
+
+===    Menu    ===
+Select an option
+f: Finish the program
+t: Information about the shows
+m: Information about the members
+b: Update the data when buying tickets
+c: Delete the data after deleting tickets
+Enter an Option: m
+==== Member Information ====
+Member: Mark Smith
+No tickets
+
+Member: Michael Jones
+No tickets
+
+Member: Mark Jones
+No tickets
+
+Member: Ted Smith
+No tickets
+
+===    Menu    ===
+Select an option
+f: Finish the program
+t: Information about the shows
+m: Information about the members
+b: Update the data when buying tickets
+c: Delete the data after deleting tickets
+Enter an Option: b
+==== Buy Tickets ====
+Please Select the member:
+1. Mark Smith
+2. Michael Jones
+3. Mark Jones
+4. Ted Smith
+Enter an Option: 1
+Please Select the ticket:
+1. Spooky Men
+2. Fascinating Aida
+3. Professor Elemental
+4. Weird Al
+5. The Ukulele Orchestra of Great Britain
+Enter an Option: 1
+
+Number of ticket you want to buy:
+1
+You have successfully bought this ticket!
+===    Menu    ===
+Select an option
+f: Finish the program
+t: Information about the shows
+m: Information about the members
+b: Update the data when buying tickets
+c: Delete the data after deleting tickets
+Enter an Option: b
+==== Buy Tickets ====
+Please Select the member:
+1. Mark Smith
+2. Michael Jones
+3. Mark Jones
+4. Ted Smith
+Enter an Option: 2
+Please Select the ticket:
+1. Spooky Men
+2. Fascinating Aida
+3. Professor Elemental
+4. Weird Al
+5. The Ukulele Orchestra of Great Britain
+Enter an Option: 1
+
+Number of ticket you want to buy:
+1
+You have successfully bought this ticket!
+===    Menu    ===
+Select an option
+f: Finish the program
+t: Information about the shows
+m: Information about the members
+b: Update the data when buying tickets
+c: Delete the data after deleting tickets
+Enter an Option: b
+==== Buy Tickets ====
+Please Select the member:
+1. Mark Smith
+2. Michael Jones
+3. Mark Jones
+4. Ted Smith
+Enter an Option: 3
+Please Select the ticket:
+1. Spooky Men
+2. Fascinating Aida
+3. Professor Elemental
+4. Weird Al
+5. The Ukulele Orchestra of Great Britain
+Enter an Option: 1
+
+Number of ticket you want to buy:
+1
+You have successfully bought this ticket!
+===    Menu    ===
+Select an option
+f: Finish the program
+t: Information about the shows
+m: Information about the members
+b: Update the data when buying tickets
+c: Delete the data after deleting tickets
+Enter an Option: t
+==== Ticket Information ====
+Tickets for these shows: Spooky Men is available
+Tickets' availableNumber: -1
+Tickets' price: 10.99
+
+Tickets for these shows: Fascinating Aida is available
+Tickets' availableNumber: 5
+Tickets' price: 15.5
+
+Tickets for these shows: Professor Elemental is available
+Tickets' availableNumber: 11
+Tickets' price: 8.99
+
+Tickets for these shows: Weird Al is available
+Tickets' availableNumber: 4
+Tickets' price: 28.99
+
+Tickets for these shows: The Ukulele Orchestra of Great Britain is available
+Tickets' availableNumber: 7
+Tickets' price: 25.3
+
+===    Menu    ===
+Select an option
+f: Finish the program
+t: Information about the shows
+m: Information about the members
+b: Update the data when buying tickets
+c: Delete the data after deleting tickets
+Enter an Option: m
+==== Member Information ====
+Member: Mark Smith
+Spooky Men: 1 tickets
+Total price: 10.99
+All tickets total: 10.99
+
+Member: Michael Jones
+Spooky Men: 1 tickets
+Total price: 10.99
+All tickets total: 10.99
+
+Member: Mark Jones
+Spooky Men: 1 tickets
+Total price: 10.99
+All tickets total: 10.99
+
+Member: Ted Smith
+No tickets
+
+===    Menu    ===
+Select an option
+f: Finish the program
+t: Information about the shows
+m: Information about the members
+b: Update the data when buying tickets
+c: Delete the data after deleting tickets
+Enter an Option: b
+==== Buy Tickets ====
+Please Select the member:
+1. Mark Smith
+2. Michael Jones
+3. Mark Jones
+4. Ted Smith
+Enter an Option: 1
+Please Select the ticket:
+1. Spooky Men
+2. Fascinating Aida
+3. Professor Elemental
+4. Weird Al
+5. The Ukulele Orchestra of Great Britain
+Enter an Option: 1
+
+Number of ticket you want to buy:
+1
+Failed to buy ticket. Because you already have 3 types of tickets or you already buy this ticket.
+===    Menu    ===
+Select an option
+f: Finish the program
+t: Information about the shows
+m: Information about the members
+b: Update the data when buying tickets
+c: Delete the data after deleting tickets
+Enter an Option: b
+==== Buy Tickets ====
+Please Select the member:
+1. Mark Smith
+2. Michael Jones
+3. Mark Jones
+4. Ted Smith
+Enter an Option: 1
+Please Select the ticket:
+1. Spooky Men
+2. Fascinating Aida
+3. Professor Elemental
+4. Weird Al
+5. The Ukulele Orchestra of Great Britain
+Enter an Option: 2
+
+Number of ticket you want to buy:
+1
+You have successfully bought this ticket!
+===    Menu    ===
+Select an option
+f: Finish the program
+t: Information about the shows
+m: Information about the members
+b: Update the data when buying tickets
+c: Delete the data after deleting tickets
+Enter an Option: b
+==== Buy Tickets ====
+Please Select the member:
+1. Mark Smith
+2. Michael Jones
+3. Mark Jones
+4. Ted Smith
+Enter an Option: 1
+Please Select the ticket:
+1. Spooky Men
+2. Fascinating Aida
+3. Professor Elemental
+4. Weird Al
+5. The Ukulele Orchestra of Great Britain
+Enter an Option: 3
+
+Number of ticket you want to buy:
+1
+You have successfully bought this ticket!
+===    Menu    ===
+Select an option
+f: Finish the program
+t: Information about the shows
+m: Information about the members
+b: Update the data when buying tickets
+c: Delete the data after deleting tickets
+Enter an Option: b
+==== Buy Tickets ====
+Please Select the member:
+1. Mark Smith
+2. Michael Jones
+3. Mark Jones
+4. Ted Smith
+Enter an Option: 1
+Please Select the ticket:
+1. Spooky Men
+2. Fascinating Aida
+3. Professor Elemental
+4. Weird Al
+5. The Ukulele Orchestra of Great Britain
+Enter an Option: 4
+
+Number of ticket you want to buy:
+1
+Failed to buy ticket. Because you already have 3 types of tickets or you already buy this ticket.
+===    Menu    ===
+Select an option
+f: Finish the program
+t: Information about the shows
+m: Information about the members
+b: Update the data when buying tickets
+c: Delete the data after deleting tickets
+Enter an Option: b
+==== Buy Tickets ====
+Please Select the member:
+1. Mark Smith
+2. Michael Jones
+3. Mark Jones
+4. Ted Smith
+Enter an Option: 3
+Please Select the ticket:
+1. Spooky Men
+2. Fascinating Aida
+3. Professor Elemental
+4. Weird Al
+5. The Ukulele Orchestra of Great Britain
+Enter an Option: 1
+
+Number of ticket you want to buy:
+5
+Fail to buy tickets. Because We don't have enough tickets to sell or you enter a invalid number. Please enter a valid number.
+===    Menu    ===
+Select an option
+f: Finish the program
+t: Information about the shows
+m: Information about the members
+b: Update the data when buying tickets
+c: Delete the data after deleting tickets
+Enter an Option: c
+==== Cancel Tickets ====
+1. Mark Smith
+2. Michael Jones
+3. Mark Jones
+4. Ted Smith
+Enter an Option: 1
+The tickets now you have:
+1. Spooky Men
+2. Professor Elemental
+3. Fascinating Aida
+Select a ticket you want to cancel: 1
+Enter quantity to cancel: 1
+You have successfully cancelled 1 tickets for Spooky Men
+===    Menu    ===
+Select an option
+f: Finish the program
+t: Information about the shows
+m: Information about the members
+b: Update the data when buying tickets
+c: Delete the data after deleting tickets
+Enter an Option: t
+==== Ticket Information ====
+Tickets for these shows: Spooky Men is available
+Tickets' availableNumber: 0
+Tickets' price: 10.99
+
+Tickets for these shows: Fascinating Aida is available
+Tickets' availableNumber: 4
+Tickets' price: 15.5
+
+Tickets for these shows: Professor Elemental is available
+Tickets' availableNumber: 10
+Tickets' price: 8.99
+
+Tickets for these shows: Weird Al is available
+Tickets' availableNumber: 4
+Tickets' price: 28.99
+
+Tickets for these shows: The Ukulele Orchestra of Great Britain is available
+Tickets' availableNumber: 7
+Tickets' price: 25.3
+
+===    Menu    ===
+Select an option
+f: Finish the program
+t: Information about the shows
+m: Information about the members
+b: Update the data when buying tickets
+c: Delete the data after deleting tickets
+Enter an Option: m
+==== Member Information ====
+Member: Mark Smith
+Professor Elemental: 1 tickets
+Total price: 8.99
+Fascinating Aida: 1 tickets
+Total price: 15.5
+All tickets total: 24.490000000000002
+
+Member: Michael Jones
+Spooky Men: 1 tickets
+Total price: 10.99
+All tickets total: 10.99
+
+Member: Mark Jones
+Spooky Men: 1 tickets
+Total price: 10.99
+All tickets total: 10.99
+
+Member: Ted Smith
+No tickets
+
+===    Menu    ===
+Select an option
+f: Finish the program
+t: Information about the shows
+m: Information about the members
+b: Update the data when buying tickets
+c: Delete the data after deleting tickets
+Enter an Option: e
+Please enter a valid Option
+===    Menu    ===
+Select an option
+f: Finish the program
+t: Information about the shows
+m: Information about the members
+b: Update the data when buying tickets
+c: Delete the data after deleting tickets
+Enter an Option: f
+Good bye
+

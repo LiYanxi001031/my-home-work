@@ -1,0 +1,10 @@
+Dear Mark Jones,
+
+We are sorry to inform you that we do not have enough tickets for Spooky Men. Please buy another show.
+
+Or you just enter a invalid number like -1. Be careful that the number can't < 0.
+
+Please select another show or enter a valid number
+
+Sincerely,
+NEAT
